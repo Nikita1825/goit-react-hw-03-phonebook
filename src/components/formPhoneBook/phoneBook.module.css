@@ -1,0 +1,25 @@
+.form{
+        display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 30px;
+    border: 1px solid;
+    width: 500px;
+    height: 100%;
+    border-radius: 3px;
+}
+.input {
+    padding: 5px;
+    border-radius: 3px;
+}
+.btn {
+    padding: 5px;
+    
+    background: rgb(252, 255, 196);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 200ms;
+}
+.btn:hover {
+    transform: scale(110%);
+}

@@ -1,0 +1,14 @@
+.filter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 15px;
+    width: 200px;
+}
+.textFilter {
+    font-size: 21px;
+}
+.inputFilter {
+    padding: 5px;
+    border-radius: 3px;
+}
